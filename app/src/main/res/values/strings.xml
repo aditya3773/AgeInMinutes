@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DateInMinutes</string>
+    <string name="calculate_your">Calculate Your</string>
+    <string name="in_minutes">in Minutes</string>
+    <string name="Bday">Enter Your Birthdate</string>
+    <string name="age">AGE</string>
+    <string name="DOb">Selected Date</string>
+</resources>
